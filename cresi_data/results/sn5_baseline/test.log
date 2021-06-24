@@ -1,0 +1,3 @@
+06-24 19:10 log      INFO     Testing: weight_dir: /content/drive/Shareddrives/CS482_Project/cresi_data/results/weights/sn5_baseline
+06-24 19:10 root     INFO     Saving eval outputs to: /content/drive/Shareddrives/CS482_Project/cresi_data/results/sn5_baseline/folds
+06-24 19:23 log      INFO     Time to run 1 folds for 944 = 775.3791000843048 seconds

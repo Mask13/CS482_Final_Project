@@ -1,0 +1,2566 @@
+06-24 19:28 log      INFO     df_wkt at: /content/drive/Shareddrives/CS482_Project/cresi_data/results/sn5_baseline/wkt_submission_nospeed.csv
+06-24 19:28 log      INFO     
+1 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip0
+06-24 19:28 log      INFO     
+1 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+2 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1
+06-24 19:28 log      INFO     
+2 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+3 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip10
+06-24 19:28 log      INFO     
+3 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+4 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1001
+06-24 19:28 log      INFO     
+4 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+5 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1002
+06-24 19:28 log      INFO     
+5 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+6 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1004
+06-24 19:28 log      INFO     
+6 / 641, num linestrings: 85
+06-24 19:28 log      INFO     
+7 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1008
+06-24 19:28 log      INFO     
+7 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+8 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1009
+06-24 19:28 log      INFO     
+8 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+9 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip101
+06-24 19:28 log      INFO     
+9 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+10 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1011
+06-24 19:28 log      INFO     
+10 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+11 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1013
+06-24 19:28 log      INFO     
+11 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+12 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip1015
+06-24 19:28 log      INFO     
+12 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+13 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip102
+06-24 19:28 log      INFO     
+13 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+14 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip103
+06-24 19:28 log      INFO     
+14 / 641, num linestrings: 36
+06-24 19:28 log      INFO     
+15 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip104
+06-24 19:28 log      INFO     
+15 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+16 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip106
+06-24 19:28 log      INFO     
+16 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+17 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip108
+06-24 19:28 log      INFO     
+17 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+18 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip110
+06-24 19:28 log      INFO     
+18 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+19 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip111
+06-24 19:28 log      INFO     
+19 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+20 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip113
+06-24 19:28 log      INFO     
+20 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+21 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip114
+06-24 19:28 log      INFO     
+21 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+22 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip119
+06-24 19:28 log      INFO     
+22 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+23 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip12
+06-24 19:28 log      INFO     
+23 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+24 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip120
+06-24 19:28 log      INFO     
+24 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+25 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip121
+06-24 19:28 log      INFO     
+25 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+26 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip122
+06-24 19:28 log      INFO     
+26 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+27 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip123
+06-24 19:28 log      INFO     
+27 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+28 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip125
+06-24 19:28 log      INFO     
+28 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+29 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip126
+06-24 19:28 log      INFO     
+29 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+30 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip129
+06-24 19:28 log      INFO     
+30 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+31 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip13
+06-24 19:28 log      INFO     
+31 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+32 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip131
+06-24 19:28 log      INFO     
+32 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+33 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip132
+06-24 19:28 log      INFO     
+33 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+34 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip133
+06-24 19:28 log      INFO     
+34 / 641, num linestrings: 4
+06-24 19:28 log      INFO     
+35 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip134
+06-24 19:28 log      INFO     
+35 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+36 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip136
+06-24 19:28 log      INFO     
+36 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+37 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip137
+06-24 19:28 log      INFO     
+37 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+38 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip138
+06-24 19:28 log      INFO     
+38 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+39 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip14
+06-24 19:28 log      INFO     
+39 / 641, num linestrings: 105
+06-24 19:28 log      INFO     
+40 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip141
+06-24 19:28 log      INFO     
+40 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+41 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip143
+06-24 19:28 log      INFO     
+41 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+42 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip144
+06-24 19:28 log      INFO     
+42 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+43 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip145
+06-24 19:28 log      INFO     
+43 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+44 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip147
+06-24 19:28 log      INFO     
+44 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+45 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip148
+06-24 19:28 log      INFO     
+45 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+46 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip149
+06-24 19:28 log      INFO     
+46 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+47 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip15
+06-24 19:28 log      INFO     
+47 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+48 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip151
+06-24 19:28 log      INFO     
+48 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+49 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip152
+06-24 19:28 log      INFO     
+49 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+50 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip158
+06-24 19:28 log      INFO     
+50 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+51 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip16
+06-24 19:28 log      INFO     
+51 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+52 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip160
+06-24 19:28 log      INFO     
+52 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+53 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip163
+06-24 19:28 log      INFO     
+53 / 641, num linestrings: 81
+06-24 19:28 log      INFO     
+54 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip164
+06-24 19:28 log      INFO     
+54 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+55 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip165
+06-24 19:28 log      INFO     
+55 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+56 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip168
+06-24 19:28 log      INFO     
+56 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+57 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip17
+06-24 19:28 log      INFO     
+57 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+58 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip170
+06-24 19:28 log      INFO     
+58 / 641, num linestrings: 67
+06-24 19:28 log      INFO     
+59 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip171
+06-24 19:28 log      INFO     
+59 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+60 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip173
+06-24 19:28 log      INFO     
+60 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+61 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip175
+06-24 19:28 log      INFO     
+61 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+62 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip176
+06-24 19:28 log      INFO     
+62 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+63 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip178
+06-24 19:28 log      INFO     
+63 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+64 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip179
+06-24 19:28 log      INFO     
+64 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+65 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip180
+06-24 19:28 log      INFO     
+65 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+66 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip182
+06-24 19:28 log      INFO     
+66 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+67 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip183
+06-24 19:28 log      INFO     
+67 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+68 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip184
+06-24 19:28 log      INFO     
+68 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+69 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip185
+06-24 19:28 log      INFO     
+69 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+70 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip187
+06-24 19:28 log      INFO     
+70 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+71 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip19
+06-24 19:28 log      INFO     
+71 / 641, num linestrings: 72
+06-24 19:28 log      INFO     
+72 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip193
+06-24 19:28 log      INFO     
+72 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+73 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip194
+06-24 19:28 log      INFO     
+73 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+74 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip195
+06-24 19:28 log      INFO     
+74 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+75 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip198
+06-24 19:28 log      INFO     
+75 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+76 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip199
+06-24 19:28 log      INFO     
+76 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+77 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip20
+06-24 19:28 log      INFO     
+77 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+78 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip200
+06-24 19:28 log      INFO     
+78 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+79 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip203
+06-24 19:28 log      INFO     
+79 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+80 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip205
+06-24 19:28 log      INFO     
+80 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+81 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip206
+06-24 19:28 log      INFO     
+81 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+82 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip207
+06-24 19:28 log      INFO     
+82 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+83 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip209
+06-24 19:28 log      INFO     
+83 / 641, num linestrings: 108
+06-24 19:28 log      INFO     
+84 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip21
+06-24 19:28 log      INFO     
+84 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+85 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip212
+06-24 19:28 log      INFO     
+85 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+86 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip213
+06-24 19:28 log      INFO     
+86 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+87 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip215
+06-24 19:28 log      INFO     
+87 / 641, num linestrings: 84
+06-24 19:28 log      INFO     
+88 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip217
+06-24 19:28 log      INFO     
+88 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+89 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip22
+06-24 19:28 log      INFO     
+89 / 641, num linestrings: 63
+06-24 19:28 log      INFO     
+90 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip220
+06-24 19:28 log      INFO     
+90 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+91 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip221
+06-24 19:28 log      INFO     
+91 / 641, num linestrings: 65
+06-24 19:28 log      INFO     
+92 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip223
+06-24 19:28 log      INFO     
+92 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+93 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip224
+06-24 19:28 log      INFO     
+93 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+94 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip225
+06-24 19:28 log      INFO     
+94 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+95 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip23
+06-24 19:28 log      INFO     
+95 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+96 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip231
+06-24 19:28 log      INFO     
+96 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+97 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip232
+06-24 19:28 log      INFO     
+97 / 641, num linestrings: 4
+06-24 19:28 log      INFO     
+98 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip233
+06-24 19:28 log      INFO     
+98 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+99 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip234
+06-24 19:28 log      INFO     
+99 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+100 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip235
+06-24 19:28 log      INFO     
+100 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+101 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip237
+06-24 19:28 log      INFO     
+101 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+102 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip238
+06-24 19:28 log      INFO     
+102 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+103 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip24
+06-24 19:28 log      INFO     
+103 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+104 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip240
+06-24 19:28 log      INFO     
+104 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+105 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip242
+06-24 19:28 log      INFO     
+105 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+106 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip243
+06-24 19:28 log      INFO     
+106 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+107 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip244
+06-24 19:28 log      INFO     
+107 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+108 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip247
+06-24 19:28 log      INFO     
+108 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+109 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip248
+06-24 19:28 log      INFO     
+109 / 641, num linestrings: 92
+06-24 19:28 log      INFO     
+110 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip249
+06-24 19:28 log      INFO     
+110 / 641, num linestrings: 69
+06-24 19:28 log      INFO     
+111 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip25
+06-24 19:28 log      INFO     
+111 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+112 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip250
+06-24 19:28 log      INFO     
+112 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+113 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip251
+06-24 19:28 log      INFO     
+113 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+114 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip252
+06-24 19:28 log      INFO     
+114 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+115 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip253
+06-24 19:28 log      INFO     
+115 / 641, num linestrings: 79
+06-24 19:28 log      INFO     
+116 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip256
+06-24 19:28 log      INFO     
+116 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+117 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip258
+06-24 19:28 log      INFO     
+117 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+118 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip26
+06-24 19:28 log      INFO     
+118 / 641, num linestrings: 67
+06-24 19:28 log      INFO     
+119 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip260
+06-24 19:28 log      INFO     
+119 / 641, num linestrings: 90
+06-24 19:28 log      INFO     
+120 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip261
+06-24 19:28 log      INFO     
+120 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+121 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip263
+06-24 19:28 log      INFO     
+121 / 641, num linestrings: 100
+06-24 19:28 log      INFO     
+122 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip264
+06-24 19:28 log      INFO     
+122 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+123 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip265
+06-24 19:28 log      INFO     
+123 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+124 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip268
+06-24 19:28 log      INFO     
+124 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+125 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip27
+06-24 19:28 log      INFO     
+125 / 641, num linestrings: 66
+06-24 19:28 log      INFO     
+126 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip270
+06-24 19:28 log      INFO     
+126 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+127 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip271
+06-24 19:28 log      INFO     
+127 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+128 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip272
+06-24 19:28 log      INFO     
+128 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+129 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip273
+06-24 19:28 log      INFO     
+129 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+130 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip274
+06-24 19:28 log      INFO     
+130 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+131 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip275
+06-24 19:28 log      INFO     
+131 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+132 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip278
+06-24 19:28 log      INFO     
+132 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+133 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip279
+06-24 19:28 log      INFO     
+133 / 641, num linestrings: 55
+06-24 19:28 log      INFO     
+134 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip28
+06-24 19:28 log      INFO     
+134 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+135 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip280
+06-24 19:28 log      INFO     
+135 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+136 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip283
+06-24 19:28 log      INFO     
+136 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+137 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip284
+06-24 19:28 log      INFO     
+137 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+138 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip286
+06-24 19:28 log      INFO     
+138 / 641, num linestrings: 69
+06-24 19:28 log      INFO     
+139 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip287
+06-24 19:28 log      INFO     
+139 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+140 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip288
+06-24 19:28 log      INFO     
+140 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+141 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip29
+06-24 19:28 log      INFO     
+141 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+142 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip290
+06-24 19:28 log      INFO     
+142 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+143 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip293
+06-24 19:28 log      INFO     
+143 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+144 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip294
+06-24 19:28 log      INFO     
+144 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+145 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip297
+06-24 19:28 log      INFO     
+145 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+146 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip30
+06-24 19:28 log      INFO     
+146 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+147 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip300
+06-24 19:28 log      INFO     
+147 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+148 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip301
+06-24 19:28 log      INFO     
+148 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+149 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip305
+06-24 19:28 log      INFO     
+149 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+150 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip307
+06-24 19:28 log      INFO     
+150 / 641, num linestrings: 94
+06-24 19:28 log      INFO     
+151 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip308
+06-24 19:28 log      INFO     
+151 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+152 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip31
+06-24 19:28 log      INFO     
+152 / 641, num linestrings: 59
+06-24 19:28 log      INFO     
+153 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip310
+06-24 19:28 log      INFO     
+153 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+154 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip311
+06-24 19:28 log      INFO     
+154 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+155 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip312
+06-24 19:28 log      INFO     
+155 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+156 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip313
+06-24 19:28 log      INFO     
+156 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+157 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip314
+06-24 19:28 log      INFO     
+157 / 641, num linestrings: 63
+06-24 19:28 log      INFO     
+158 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip315
+06-24 19:28 log      INFO     
+158 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+159 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip318
+06-24 19:28 log      INFO     
+159 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+160 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip319
+06-24 19:28 log      INFO     
+160 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+161 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip32
+06-24 19:28 log      INFO     
+161 / 641, num linestrings: 60
+06-24 19:28 log      INFO     
+162 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip321
+06-24 19:28 log      INFO     
+162 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+163 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip322
+06-24 19:28 log      INFO     
+163 / 641, num linestrings: 67
+06-24 19:28 log      INFO     
+164 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip324
+06-24 19:28 log      INFO     
+164 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+165 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip325
+06-24 19:28 log      INFO     
+165 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+166 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip327
+06-24 19:28 log      INFO     
+166 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+167 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip328
+06-24 19:28 log      INFO     
+167 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+168 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip329
+06-24 19:28 log      INFO     
+168 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+169 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip33
+06-24 19:28 log      INFO     
+169 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+170 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip331
+06-24 19:28 log      INFO     
+170 / 641, num linestrings: 39
+06-24 19:28 log      INFO     
+171 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip332
+06-24 19:28 log      INFO     
+171 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+172 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip334
+06-24 19:28 log      INFO     
+172 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+173 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip338
+06-24 19:28 log      INFO     
+173 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+174 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip339
+06-24 19:28 log      INFO     
+174 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+175 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip34
+06-24 19:28 log      INFO     
+175 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+176 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip340
+06-24 19:28 log      INFO     
+176 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+177 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip341
+06-24 19:28 log      INFO     
+177 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+178 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip344
+06-24 19:28 log      INFO     
+178 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+179 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip346
+06-24 19:28 log      INFO     
+179 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+180 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip347
+06-24 19:28 log      INFO     
+180 / 641, num linestrings: 74
+06-24 19:28 log      INFO     
+181 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip348
+06-24 19:28 log      INFO     
+181 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+182 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip349
+06-24 19:28 log      INFO     
+182 / 641, num linestrings: 73
+06-24 19:28 log      INFO     
+183 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip35
+06-24 19:28 log      INFO     
+183 / 641, num linestrings: 73
+06-24 19:28 log      INFO     
+184 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip351
+06-24 19:28 log      INFO     
+184 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+185 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip353
+06-24 19:28 log      INFO     
+185 / 641, num linestrings: 66
+06-24 19:28 log      INFO     
+186 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip358
+06-24 19:28 log      INFO     
+186 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+187 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip36
+06-24 19:28 log      INFO     
+187 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+188 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip360
+06-24 19:28 log      INFO     
+188 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+189 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip361
+06-24 19:28 log      INFO     
+189 / 641, num linestrings: 70
+06-24 19:28 log      INFO     
+190 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip364
+06-24 19:28 log      INFO     
+190 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+191 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip366
+06-24 19:28 log      INFO     
+191 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+192 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip369
+06-24 19:28 log      INFO     
+192 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+193 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip37
+06-24 19:28 log      INFO     
+193 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+194 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip370
+06-24 19:28 log      INFO     
+194 / 641, num linestrings: 36
+06-24 19:28 log      INFO     
+195 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip371
+06-24 19:28 log      INFO     
+195 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+196 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip372
+06-24 19:28 log      INFO     
+196 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+197 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip373
+06-24 19:28 log      INFO     
+197 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+198 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip374
+06-24 19:28 log      INFO     
+198 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+199 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip375
+06-24 19:28 log      INFO     
+199 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+200 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip377
+06-24 19:28 log      INFO     
+200 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+201 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip378
+06-24 19:28 log      INFO     
+201 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+202 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip379
+06-24 19:28 log      INFO     
+202 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+203 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip38
+06-24 19:28 log      INFO     
+203 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+204 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip380
+06-24 19:28 log      INFO     
+204 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+205 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip381
+06-24 19:28 log      INFO     
+205 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+206 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip382
+06-24 19:28 log      INFO     
+206 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+207 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip384
+06-24 19:28 log      INFO     
+207 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+208 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip385
+06-24 19:28 log      INFO     
+208 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+209 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip386
+06-24 19:28 log      INFO     
+209 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+210 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip387
+06-24 19:28 log      INFO     
+210 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+211 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip388
+06-24 19:28 log      INFO     
+211 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+212 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip389
+06-24 19:28 log      INFO     
+212 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+213 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip39
+06-24 19:28 log      INFO     
+213 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+214 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip390
+06-24 19:28 log      INFO     
+214 / 641, num linestrings: 77
+06-24 19:28 log      INFO     
+215 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip391
+06-24 19:28 log      INFO     
+215 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+216 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip393
+06-24 19:28 log      INFO     
+216 / 641, num linestrings: 55
+06-24 19:28 log      INFO     
+217 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip394
+06-24 19:28 log      INFO     
+217 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+218 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip395
+06-24 19:28 log      INFO     
+218 / 641, num linestrings: 60
+06-24 19:28 log      INFO     
+219 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip396
+06-24 19:28 log      INFO     
+219 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+220 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip398
+06-24 19:28 log      INFO     
+220 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+221 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip399
+06-24 19:28 log      INFO     
+221 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+222 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip4
+06-24 19:28 log      INFO     
+222 / 641, num linestrings: 65
+06-24 19:28 log      INFO     
+223 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip400
+06-24 19:28 log      INFO     
+223 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+224 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip401
+06-24 19:28 log      INFO     
+224 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+225 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip402
+06-24 19:28 log      INFO     
+225 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+226 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip403
+06-24 19:28 log      INFO     
+226 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+227 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip405
+06-24 19:28 log      INFO     
+227 / 641, num linestrings: 7
+06-24 19:28 log      INFO     
+228 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip406
+06-24 19:28 log      INFO     
+228 / 641, num linestrings: 51
+06-24 19:28 log      INFO     
+229 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip408
+06-24 19:28 log      INFO     
+229 / 641, num linestrings: 69
+06-24 19:28 log      INFO     
+230 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip410
+06-24 19:28 log      INFO     
+230 / 641, num linestrings: 74
+06-24 19:28 log      INFO     
+231 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip411
+06-24 19:28 log      INFO     
+231 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+232 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip415
+06-24 19:28 log      INFO     
+232 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+233 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip416
+06-24 19:28 log      INFO     
+233 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+234 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip417
+06-24 19:28 log      INFO     
+234 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+235 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip418
+06-24 19:28 log      INFO     
+235 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+236 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip419
+06-24 19:28 log      INFO     
+236 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+237 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip423
+06-24 19:28 log      INFO     
+237 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+238 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip425
+06-24 19:28 log      INFO     
+238 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+239 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip426
+06-24 19:28 log      INFO     
+239 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+240 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip427
+06-24 19:28 log      INFO     
+240 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+241 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip429
+06-24 19:28 log      INFO     
+241 / 641, num linestrings: 39
+06-24 19:28 log      INFO     
+242 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip43
+06-24 19:28 log      INFO     
+242 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+243 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip430
+06-24 19:28 log      INFO     
+243 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+244 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip431
+06-24 19:28 log      INFO     
+244 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+245 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip432
+06-24 19:28 log      INFO     
+245 / 641, num linestrings: 66
+06-24 19:28 log      INFO     
+246 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip434
+06-24 19:28 log      INFO     
+246 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+247 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip435
+06-24 19:28 log      INFO     
+247 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+248 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip44
+06-24 19:28 log      INFO     
+248 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+249 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip441
+06-24 19:28 log      INFO     
+249 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+250 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip442
+06-24 19:28 log      INFO     
+250 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+251 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip443
+06-24 19:28 log      INFO     
+251 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+252 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip445
+06-24 19:28 log      INFO     
+252 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+253 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip446
+06-24 19:28 log      INFO     
+253 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+254 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip447
+06-24 19:28 log      INFO     
+254 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+255 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip449
+06-24 19:28 log      INFO     
+255 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+256 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip451
+06-24 19:28 log      INFO     
+256 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+257 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip452
+06-24 19:28 log      INFO     
+257 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+258 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip453
+06-24 19:28 log      INFO     
+258 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+259 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip454
+06-24 19:28 log      INFO     
+259 / 641, num linestrings: 86
+06-24 19:28 log      INFO     
+260 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip456
+06-24 19:28 log      INFO     
+260 / 641, num linestrings: 82
+06-24 19:28 log      INFO     
+261 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip457
+06-24 19:28 log      INFO     
+261 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+262 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip459
+06-24 19:28 log      INFO     
+262 / 641, num linestrings: 112
+06-24 19:28 log      INFO     
+263 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip46
+06-24 19:28 log      INFO     
+263 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+264 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip460
+06-24 19:28 log      INFO     
+264 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+265 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip461
+06-24 19:28 log      INFO     
+265 / 641, num linestrings: 78
+06-24 19:28 log      INFO     
+266 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip464
+06-24 19:28 log      INFO     
+266 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+267 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip466
+06-24 19:28 log      INFO     
+267 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+268 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip467
+06-24 19:28 log      INFO     
+268 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+269 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip468
+06-24 19:28 log      INFO     
+269 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+270 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip47
+06-24 19:28 log      INFO     
+270 / 641, num linestrings: 70
+06-24 19:28 log      INFO     
+271 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip470
+06-24 19:28 log      INFO     
+271 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+272 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip471
+06-24 19:28 log      INFO     
+272 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+273 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip473
+06-24 19:28 log      INFO     
+273 / 641, num linestrings: 55
+06-24 19:28 log      INFO     
+274 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip475
+06-24 19:28 log      INFO     
+274 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+275 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip477
+06-24 19:28 log      INFO     
+275 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+276 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip48
+06-24 19:28 log      INFO     
+276 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+277 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip483
+06-24 19:28 log      INFO     
+277 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+278 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip484
+06-24 19:28 log      INFO     
+278 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+279 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip485
+06-24 19:28 log      INFO     
+279 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+280 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip486
+06-24 19:28 log      INFO     
+280 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+281 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip487
+06-24 19:28 log      INFO     
+281 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+282 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip489
+06-24 19:28 log      INFO     
+282 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+283 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip494
+06-24 19:28 log      INFO     
+283 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+284 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip495
+06-24 19:28 log      INFO     
+284 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+285 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip497
+06-24 19:28 log      INFO     
+285 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+286 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip498
+06-24 19:28 log      INFO     
+286 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+287 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip499
+06-24 19:28 log      INFO     
+287 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+288 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip5
+06-24 19:28 log      INFO     
+288 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+289 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip50
+06-24 19:28 log      INFO     
+289 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+290 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip500
+06-24 19:28 log      INFO     
+290 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+291 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip502
+06-24 19:28 log      INFO     
+291 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+292 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip504
+06-24 19:28 log      INFO     
+292 / 641, num linestrings: 63
+06-24 19:28 log      INFO     
+293 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip505
+06-24 19:28 log      INFO     
+293 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+294 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip506
+06-24 19:28 log      INFO     
+294 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+295 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip507
+06-24 19:28 log      INFO     
+295 / 641, num linestrings: 59
+06-24 19:28 log      INFO     
+296 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip508
+06-24 19:28 log      INFO     
+296 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+297 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip51
+06-24 19:28 log      INFO     
+297 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+298 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip510
+06-24 19:28 log      INFO     
+298 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+299 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip511
+06-24 19:28 log      INFO     
+299 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+300 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip512
+06-24 19:28 log      INFO     
+300 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+301 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip513
+06-24 19:28 log      INFO     
+301 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+302 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip515
+06-24 19:28 log      INFO     
+302 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+303 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip516
+06-24 19:28 log      INFO     
+303 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+304 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip517
+06-24 19:28 log      INFO     
+304 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+305 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip518
+06-24 19:28 log      INFO     
+305 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+306 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip523
+06-24 19:28 log      INFO     
+306 / 641, num linestrings: 59
+06-24 19:28 log      INFO     
+307 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip524
+06-24 19:28 log      INFO     
+307 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+308 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip526
+06-24 19:28 log      INFO     
+308 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+309 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip527
+06-24 19:28 log      INFO     
+309 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+310 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip528
+06-24 19:28 log      INFO     
+310 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+311 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip529
+06-24 19:28 log      INFO     
+311 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+312 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip53
+06-24 19:28 log      INFO     
+312 / 641, num linestrings: 95
+06-24 19:28 log      INFO     
+313 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip530
+06-24 19:28 log      INFO     
+313 / 641, num linestrings: 4
+06-24 19:28 log      INFO     
+314 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip531
+06-24 19:28 log      INFO     
+314 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+315 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip532
+06-24 19:28 log      INFO     
+315 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+316 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip534
+06-24 19:28 log      INFO     
+316 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+317 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip535
+06-24 19:28 log      INFO     
+317 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+318 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip537
+06-24 19:28 log      INFO     
+318 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+319 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip54
+06-24 19:28 log      INFO     
+319 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+320 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip541
+06-24 19:28 log      INFO     
+320 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+321 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip544
+06-24 19:28 log      INFO     
+321 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+322 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip547
+06-24 19:28 log      INFO     
+322 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+323 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip548
+06-24 19:28 log      INFO     
+323 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+324 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip55
+06-24 19:28 log      INFO     
+324 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+325 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip550
+06-24 19:28 log      INFO     
+325 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+326 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip552
+06-24 19:28 log      INFO     
+326 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+327 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip553
+06-24 19:28 log      INFO     
+327 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+328 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip554
+06-24 19:28 log      INFO     
+328 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+329 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip555
+06-24 19:28 log      INFO     
+329 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+330 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip556
+06-24 19:28 log      INFO     
+330 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+331 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip557
+06-24 19:28 log      INFO     
+331 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+332 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip558
+06-24 19:28 log      INFO     
+332 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+333 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip559
+06-24 19:28 log      INFO     
+333 / 641, num linestrings: 65
+06-24 19:28 log      INFO     
+334 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip56
+06-24 19:28 log      INFO     
+334 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+335 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip560
+06-24 19:28 log      INFO     
+335 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+336 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip562
+06-24 19:28 log      INFO     
+336 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+337 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip566
+06-24 19:28 log      INFO     
+337 / 641, num linestrings: 83
+06-24 19:28 log      INFO     
+338 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip567
+06-24 19:28 log      INFO     
+338 / 641, num linestrings: 93
+06-24 19:28 log      INFO     
+339 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip568
+06-24 19:28 log      INFO     
+339 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+340 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip572
+06-24 19:28 log      INFO     
+340 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+341 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip574
+06-24 19:28 log      INFO     
+341 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+342 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip576
+06-24 19:28 log      INFO     
+342 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+343 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip577
+06-24 19:28 log      INFO     
+343 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+344 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip579
+06-24 19:28 log      INFO     
+344 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+345 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip580
+06-24 19:28 log      INFO     
+345 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+346 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip581
+06-24 19:28 log      INFO     
+346 / 641, num linestrings: 74
+06-24 19:28 log      INFO     
+347 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip582
+06-24 19:28 log      INFO     
+347 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+348 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip584
+06-24 19:28 log      INFO     
+348 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+349 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip585
+06-24 19:28 log      INFO     
+349 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+350 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip586
+06-24 19:28 log      INFO     
+350 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+351 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip587
+06-24 19:28 log      INFO     
+351 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+352 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip589
+06-24 19:28 log      INFO     
+352 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+353 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip59
+06-24 19:28 log      INFO     
+353 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+354 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip590
+06-24 19:28 log      INFO     
+354 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+355 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip591
+06-24 19:28 log      INFO     
+355 / 641, num linestrings: 103
+06-24 19:28 log      INFO     
+356 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip592
+06-24 19:28 log      INFO     
+356 / 641, num linestrings: 128
+06-24 19:28 log      INFO     
+357 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip594
+06-24 19:28 log      INFO     
+357 / 641, num linestrings: 67
+06-24 19:28 log      INFO     
+358 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip595
+06-24 19:28 log      INFO     
+358 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+359 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip596
+06-24 19:28 log      INFO     
+359 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+360 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip597
+06-24 19:28 log      INFO     
+360 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+361 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip598
+06-24 19:28 log      INFO     
+361 / 641, num linestrings: 82
+06-24 19:28 log      INFO     
+362 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip602
+06-24 19:28 log      INFO     
+362 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+363 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip603
+06-24 19:28 log      INFO     
+363 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+364 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip604
+06-24 19:28 log      INFO     
+364 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+365 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip605
+06-24 19:28 log      INFO     
+365 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+366 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip606
+06-24 19:28 log      INFO     
+366 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+367 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip607
+06-24 19:28 log      INFO     
+367 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+368 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip608
+06-24 19:28 log      INFO     
+368 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+369 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip611
+06-24 19:28 log      INFO     
+369 / 641, num linestrings: 90
+06-24 19:28 log      INFO     
+370 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip613
+06-24 19:28 log      INFO     
+370 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+371 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip614
+06-24 19:28 log      INFO     
+371 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+372 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip615
+06-24 19:28 log      INFO     
+372 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+373 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip616
+06-24 19:28 log      INFO     
+373 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+374 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip617
+06-24 19:28 log      INFO     
+374 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+375 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip619
+06-24 19:28 log      INFO     
+375 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+376 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip62
+06-24 19:28 log      INFO     
+376 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+377 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip620
+06-24 19:28 log      INFO     
+377 / 641, num linestrings: 7
+06-24 19:28 log      INFO     
+378 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip623
+06-24 19:28 log      INFO     
+378 / 641, num linestrings: 57
+06-24 19:28 log      INFO     
+379 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip625
+06-24 19:28 log      INFO     
+379 / 641, num linestrings: 48
+06-24 19:28 log      INFO     
+380 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip626
+06-24 19:28 log      INFO     
+380 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+381 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip63
+06-24 19:28 log      INFO     
+381 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+382 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip630
+06-24 19:28 log      INFO     
+382 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+383 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip631
+06-24 19:28 log      INFO     
+383 / 641, num linestrings: 59
+06-24 19:28 log      INFO     
+384 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip632
+06-24 19:28 log      INFO     
+384 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+385 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip634
+06-24 19:28 log      INFO     
+385 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+386 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip637
+06-24 19:28 log      INFO     
+386 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+387 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip638
+06-24 19:28 log      INFO     
+387 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+388 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip639
+06-24 19:28 log      INFO     
+388 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+389 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip640
+06-24 19:28 log      INFO     
+389 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+390 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip641
+06-24 19:28 log      INFO     
+390 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+391 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip642
+06-24 19:28 log      INFO     
+391 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+392 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip643
+06-24 19:28 log      INFO     
+392 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+393 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip645
+06-24 19:28 log      INFO     
+393 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+394 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip646
+06-24 19:28 log      INFO     
+394 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+395 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip648
+06-24 19:28 log      INFO     
+395 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+396 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip65
+06-24 19:28 log      INFO     
+396 / 641, num linestrings: 72
+06-24 19:28 log      INFO     
+397 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip650
+06-24 19:28 log      INFO     
+397 / 641, num linestrings: 39
+06-24 19:28 log      INFO     
+398 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip651
+06-24 19:28 log      INFO     
+398 / 641, num linestrings: 51
+06-24 19:28 log      INFO     
+399 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip653
+06-24 19:28 log      INFO     
+399 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+400 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip654
+06-24 19:28 log      INFO     
+400 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+401 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip655
+06-24 19:28 log      INFO     
+401 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+402 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip656
+06-24 19:28 log      INFO     
+402 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+403 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip66
+06-24 19:28 log      INFO     
+403 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+404 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip660
+06-24 19:28 log      INFO     
+404 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+405 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip662
+06-24 19:28 log      INFO     
+405 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+406 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip664
+06-24 19:28 log      INFO     
+406 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+407 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip665
+06-24 19:28 log      INFO     
+407 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+408 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip667
+06-24 19:28 log      INFO     
+408 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+409 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip668
+06-24 19:28 log      INFO     
+409 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+410 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip67
+06-24 19:28 log      INFO     
+410 / 641, num linestrings: 51
+06-24 19:28 log      INFO     
+411 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip670
+06-24 19:28 log      INFO     
+411 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+412 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip671
+06-24 19:28 log      INFO     
+412 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+413 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip676
+06-24 19:28 log      INFO     
+413 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+414 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip677
+06-24 19:28 log      INFO     
+414 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+415 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip678
+06-24 19:28 log      INFO     
+415 / 641, num linestrings: 73
+06-24 19:28 log      INFO     
+416 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip679
+06-24 19:28 log      INFO     
+416 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+417 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip68
+06-24 19:28 log      INFO     
+417 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+418 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip681
+06-24 19:28 log      INFO     
+418 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+419 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip682
+06-24 19:28 log      INFO     
+419 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+420 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip683
+06-24 19:28 log      INFO     
+420 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+421 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip686
+06-24 19:28 log      INFO     
+421 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+422 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip687
+06-24 19:28 log      INFO     
+422 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+423 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip689
+06-24 19:28 log      INFO     
+423 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+424 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip69
+06-24 19:28 log      INFO     
+424 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+425 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip690
+06-24 19:28 log      INFO     
+425 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+426 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip691
+06-24 19:28 log      INFO     
+426 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+427 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip692
+06-24 19:28 log      INFO     
+427 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+428 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip695
+06-24 19:28 log      INFO     
+428 / 641, num linestrings: 53
+06-24 19:28 log      INFO     
+429 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip696
+06-24 19:28 log      INFO     
+429 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+430 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip697
+06-24 19:28 log      INFO     
+430 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+431 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip7
+06-24 19:28 log      INFO     
+431 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+432 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip70
+06-24 19:28 log      INFO     
+432 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+433 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip701
+06-24 19:28 log      INFO     
+433 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+434 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip702
+06-24 19:28 log      INFO     
+434 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+435 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip703
+06-24 19:28 log      INFO     
+435 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+436 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip704
+06-24 19:28 log      INFO     
+436 / 641, num linestrings: 89
+06-24 19:28 log      INFO     
+437 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip705
+06-24 19:28 log      INFO     
+437 / 641, num linestrings: 101
+06-24 19:28 log      INFO     
+438 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip706
+06-24 19:28 log      INFO     
+438 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+439 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip707
+06-24 19:28 log      INFO     
+439 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+440 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip708
+06-24 19:28 log      INFO     
+440 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+441 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip709
+06-24 19:28 log      INFO     
+441 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+442 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip71
+06-24 19:28 log      INFO     
+442 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+443 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip710
+06-24 19:28 log      INFO     
+443 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+444 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip715
+06-24 19:28 log      INFO     
+444 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+445 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip716
+06-24 19:28 log      INFO     
+445 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+446 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip717
+06-24 19:28 log      INFO     
+446 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+447 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip72
+06-24 19:28 log      INFO     
+447 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+448 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip720
+06-24 19:28 log      INFO     
+448 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+449 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip722
+06-24 19:28 log      INFO     
+449 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+450 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip725
+06-24 19:28 log      INFO     
+450 / 641, num linestrings: 7
+06-24 19:28 log      INFO     
+451 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip726
+06-24 19:28 log      INFO     
+451 / 641, num linestrings: 81
+06-24 19:28 log      INFO     
+452 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip727
+06-24 19:28 log      INFO     
+452 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+453 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip728
+06-24 19:28 log      INFO     
+453 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+454 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip729
+06-24 19:28 log      INFO     
+454 / 641, num linestrings: 60
+06-24 19:28 log      INFO     
+455 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip73
+06-24 19:28 log      INFO     
+455 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+456 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip730
+06-24 19:28 log      INFO     
+456 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+457 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip731
+06-24 19:28 log      INFO     
+457 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+458 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip732
+06-24 19:28 log      INFO     
+458 / 641, num linestrings: 65
+06-24 19:28 log      INFO     
+459 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip733
+06-24 19:28 log      INFO     
+459 / 641, num linestrings: 20
+06-24 19:28 log      INFO     
+460 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip736
+06-24 19:28 log      INFO     
+460 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+461 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip737
+06-24 19:28 log      INFO     
+461 / 641, num linestrings: 100
+06-24 19:28 log      INFO     
+462 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip738
+06-24 19:28 log      INFO     
+462 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+463 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip742
+06-24 19:28 log      INFO     
+463 / 641, num linestrings: 70
+06-24 19:28 log      INFO     
+464 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip743
+06-24 19:28 log      INFO     
+464 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+465 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip744
+06-24 19:28 log      INFO     
+465 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+466 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip745
+06-24 19:28 log      INFO     
+466 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+467 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip746
+06-24 19:28 log      INFO     
+467 / 641, num linestrings: 29
+06-24 19:28 log      INFO     
+468 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip748
+06-24 19:28 log      INFO     
+468 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+469 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip749
+06-24 19:28 log      INFO     
+469 / 641, num linestrings: 66
+06-24 19:28 log      INFO     
+470 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip75
+06-24 19:28 log      INFO     
+470 / 641, num linestrings: 59
+06-24 19:28 log      INFO     
+471 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip750
+06-24 19:28 log      INFO     
+471 / 641, num linestrings: 61
+06-24 19:28 log      INFO     
+472 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip751
+06-24 19:28 log      INFO     
+472 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+473 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip752
+06-24 19:28 log      INFO     
+473 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+474 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip753
+06-24 19:28 log      INFO     
+474 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+475 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip756
+06-24 19:28 log      INFO     
+475 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+476 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip760
+06-24 19:28 log      INFO     
+476 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+477 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip762
+06-24 19:28 log      INFO     
+477 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+478 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip763
+06-24 19:28 log      INFO     
+478 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+479 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip765
+06-24 19:28 log      INFO     
+479 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+480 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip767
+06-24 19:28 log      INFO     
+480 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+481 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip769
+06-24 19:28 log      INFO     
+481 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+482 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip77
+06-24 19:28 log      INFO     
+482 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+483 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip770
+06-24 19:28 log      INFO     
+483 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+484 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip773
+06-24 19:28 log      INFO     
+484 / 641, num linestrings: 73
+06-24 19:28 log      INFO     
+485 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip774
+06-24 19:28 log      INFO     
+485 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+486 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip775
+06-24 19:28 log      INFO     
+486 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+487 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip777
+06-24 19:28 log      INFO     
+487 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+488 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip779
+06-24 19:28 log      INFO     
+488 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+489 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip78
+06-24 19:28 log      INFO     
+489 / 641, num linestrings: 60
+06-24 19:28 log      INFO     
+490 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip782
+06-24 19:28 log      INFO     
+490 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+491 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip786
+06-24 19:28 log      INFO     
+491 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+492 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip787
+06-24 19:28 log      INFO     
+492 / 641, num linestrings: 84
+06-24 19:28 log      INFO     
+493 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip788
+06-24 19:28 log      INFO     
+493 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+494 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip79
+06-24 19:28 log      INFO     
+494 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+495 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip793
+06-24 19:28 log      INFO     
+495 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+496 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip794
+06-24 19:28 log      INFO     
+496 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+497 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip795
+06-24 19:28 log      INFO     
+497 / 641, num linestrings: 87
+06-24 19:28 log      INFO     
+498 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip796
+06-24 19:28 log      INFO     
+498 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+499 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip797
+06-24 19:28 log      INFO     
+499 / 641, num linestrings: 42
+06-24 19:28 log      INFO     
+500 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip798
+06-24 19:28 log      INFO     
+500 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+501 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip799
+06-24 19:28 log      INFO     
+501 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+502 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip800
+06-24 19:28 log      INFO     
+502 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+503 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip802
+06-24 19:28 log      INFO     
+503 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+504 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip803
+06-24 19:28 log      INFO     
+504 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+505 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip804
+06-24 19:28 log      INFO     
+505 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+506 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip805
+06-24 19:28 log      INFO     
+506 / 641, num linestrings: 99
+06-24 19:28 log      INFO     
+507 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip806
+06-24 19:28 log      INFO     
+507 / 641, num linestrings: 58
+06-24 19:28 log      INFO     
+508 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip807
+06-24 19:28 log      INFO     
+508 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+509 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip811
+06-24 19:28 log      INFO     
+509 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+510 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip812
+06-24 19:28 log      INFO     
+510 / 641, num linestrings: 93
+06-24 19:28 log      INFO     
+511 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip813
+06-24 19:28 log      INFO     
+511 / 641, num linestrings: 72
+06-24 19:28 log      INFO     
+512 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip815
+06-24 19:28 log      INFO     
+512 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+513 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip816
+06-24 19:28 log      INFO     
+513 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+514 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip818
+06-24 19:28 log      INFO     
+514 / 641, num linestrings: 36
+06-24 19:28 log      INFO     
+515 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip819
+06-24 19:28 log      INFO     
+515 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+516 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip82
+06-24 19:28 log      INFO     
+516 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+517 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip820
+06-24 19:28 log      INFO     
+517 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+518 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip821
+06-24 19:28 log      INFO     
+518 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+519 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip823
+06-24 19:28 log      INFO     
+519 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+520 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip825
+06-24 19:28 log      INFO     
+520 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+521 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip826
+06-24 19:28 log      INFO     
+521 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+522 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip827
+06-24 19:28 log      INFO     
+522 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+523 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip828
+06-24 19:28 log      INFO     
+523 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+524 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip83
+06-24 19:28 log      INFO     
+524 / 641, num linestrings: 7
+06-24 19:28 log      INFO     
+525 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip834
+06-24 19:28 log      INFO     
+525 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+526 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip835
+06-24 19:28 log      INFO     
+526 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+527 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip836
+06-24 19:28 log      INFO     
+527 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+528 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip837
+06-24 19:28 log      INFO     
+528 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+529 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip838
+06-24 19:28 log      INFO     
+529 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+530 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip84
+06-24 19:28 log      INFO     
+530 / 641, num linestrings: 51
+06-24 19:28 log      INFO     
+531 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip841
+06-24 19:28 log      INFO     
+531 / 641, num linestrings: 21
+06-24 19:28 log      INFO     
+532 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip842
+06-24 19:28 log      INFO     
+532 / 641, num linestrings: 8
+06-24 19:28 log      INFO     
+533 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip843
+06-24 19:28 log      INFO     
+533 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+534 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip844
+06-24 19:28 log      INFO     
+534 / 641, num linestrings: 34
+06-24 19:28 log      INFO     
+535 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip845
+06-24 19:28 log      INFO     
+535 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+536 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip846
+06-24 19:28 log      INFO     
+536 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+537 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip847
+06-24 19:28 log      INFO     
+537 / 641, num linestrings: 3
+06-24 19:28 log      INFO     
+538 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip848
+06-24 19:28 log      INFO     
+538 / 641, num linestrings: 65
+06-24 19:28 log      INFO     
+539 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip85
+06-24 19:28 log      INFO     
+539 / 641, num linestrings: 2
+06-24 19:28 log      INFO     
+540 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip850
+06-24 19:28 log      INFO     
+540 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+541 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip852
+06-24 19:28 log      INFO     
+541 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+542 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip855
+06-24 19:28 log      INFO     
+542 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+543 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip857
+06-24 19:28 log      INFO     
+543 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+544 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip858
+06-24 19:28 log      INFO     
+544 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+545 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip86
+06-24 19:28 log      INFO     
+545 / 641, num linestrings: 10
+06-24 19:28 log      INFO     
+546 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip861
+06-24 19:28 log      INFO     
+546 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+547 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip866
+06-24 19:28 log      INFO     
+547 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+548 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip867
+06-24 19:28 log      INFO     
+548 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+549 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip869
+06-24 19:28 log      INFO     
+549 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+550 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip87
+06-24 19:28 log      INFO     
+550 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+551 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip872
+06-24 19:28 log      INFO     
+551 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+552 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip877
+06-24 19:28 log      INFO     
+552 / 641, num linestrings: 19
+06-24 19:28 log      INFO     
+553 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip878
+06-24 19:28 log      INFO     
+553 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+554 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip879
+06-24 19:28 log      INFO     
+554 / 641, num linestrings: 33
+06-24 19:28 log      INFO     
+555 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip88
+06-24 19:28 log      INFO     
+555 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+556 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip880
+06-24 19:28 log      INFO     
+556 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+557 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip881
+06-24 19:28 log      INFO     
+557 / 641, num linestrings: 30
+06-24 19:28 log      INFO     
+558 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip882
+06-24 19:28 log      INFO     
+558 / 641, num linestrings: 11
+06-24 19:28 log      INFO     
+559 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip884
+06-24 19:28 log      INFO     
+559 / 641, num linestrings: 60
+06-24 19:28 log      INFO     
+560 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip885
+06-24 19:28 log      INFO     
+560 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+561 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip887
+06-24 19:28 log      INFO     
+561 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+562 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip888
+06-24 19:28 log      INFO     
+562 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+563 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip889
+06-24 19:28 log      INFO     
+563 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+564 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip89
+06-24 19:28 log      INFO     
+564 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+565 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip891
+06-24 19:28 log      INFO     
+565 / 641, num linestrings: 18
+06-24 19:28 log      INFO     
+566 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip893
+06-24 19:28 log      INFO     
+566 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+567 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip894
+06-24 19:28 log      INFO     
+567 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+568 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip896
+06-24 19:28 log      INFO     
+568 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+569 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip899
+06-24 19:28 log      INFO     
+569 / 641, num linestrings: 36
+06-24 19:28 log      INFO     
+570 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip900
+06-24 19:28 log      INFO     
+570 / 641, num linestrings: 76
+06-24 19:28 log      INFO     
+571 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip901
+06-24 19:28 log      INFO     
+571 / 641, num linestrings: 16
+06-24 19:28 log      INFO     
+572 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip902
+06-24 19:28 log      INFO     
+572 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+573 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip903
+06-24 19:28 log      INFO     
+573 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+574 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip904
+06-24 19:28 log      INFO     
+574 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+575 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip906
+06-24 19:28 log      INFO     
+575 / 641, num linestrings: 48
+06-24 19:28 log      INFO     
+576 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip908
+06-24 19:28 log      INFO     
+576 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+577 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip909
+06-24 19:28 log      INFO     
+577 / 641, num linestrings: 50
+06-24 19:28 log      INFO     
+578 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip91
+06-24 19:28 log      INFO     
+578 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+579 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip910
+06-24 19:28 log      INFO     
+579 / 641, num linestrings: 84
+06-24 19:28 log      INFO     
+580 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip911
+06-24 19:28 log      INFO     
+580 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+581 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip916
+06-24 19:28 log      INFO     
+581 / 641, num linestrings: 13
+06-24 19:28 log      INFO     
+582 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip917
+06-24 19:28 log      INFO     
+582 / 641, num linestrings: 56
+06-24 19:28 log      INFO     
+583 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip918
+06-24 19:28 log      INFO     
+583 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+584 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip92
+06-24 19:28 log      INFO     
+584 / 641, num linestrings: 9
+06-24 19:28 log      INFO     
+585 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip920
+06-24 19:28 log      INFO     
+585 / 641, num linestrings: 25
+06-24 19:28 log      INFO     
+586 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip921
+06-24 19:28 log      INFO     
+586 / 641, num linestrings: 88
+06-24 19:28 log      INFO     
+587 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip922
+06-24 19:28 log      INFO     
+587 / 641, num linestrings: 54
+06-24 19:28 log      INFO     
+588 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip923
+06-24 19:28 log      INFO     
+588 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+589 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip924
+06-24 19:28 log      INFO     
+589 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+590 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip925
+06-24 19:28 log      INFO     
+590 / 641, num linestrings: 22
+06-24 19:28 log      INFO     
+591 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip926
+06-24 19:28 log      INFO     
+591 / 641, num linestrings: 81
+06-24 19:28 log      INFO     
+592 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip928
+06-24 19:28 log      INFO     
+592 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+593 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip93
+06-24 19:28 log      INFO     
+593 / 641, num linestrings: 37
+06-24 19:28 log      INFO     
+594 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip930
+06-24 19:28 log      INFO     
+594 / 641, num linestrings: 64
+06-24 19:28 log      INFO     
+595 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip932
+06-24 19:28 log      INFO     
+595 / 641, num linestrings: 49
+06-24 19:28 log      INFO     
+596 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip935
+06-24 19:28 log      INFO     
+596 / 641, num linestrings: 127
+06-24 19:28 log      INFO     
+597 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip937
+06-24 19:28 log      INFO     
+597 / 641, num linestrings: 43
+06-24 19:28 log      INFO     
+598 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip939
+06-24 19:28 log      INFO     
+598 / 641, num linestrings: 14
+06-24 19:28 log      INFO     
+599 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip940
+06-24 19:28 log      INFO     
+599 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+600 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip942
+06-24 19:28 log      INFO     
+600 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+601 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip943
+06-24 19:28 log      INFO     
+601 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+602 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip945
+06-24 19:28 log      INFO     
+602 / 641, num linestrings: 15
+06-24 19:28 log      INFO     
+603 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip948
+06-24 19:28 log      INFO     
+603 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+604 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip949
+06-24 19:28 log      INFO     
+604 / 641, num linestrings: 32
+06-24 19:28 log      INFO     
+605 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip950
+06-24 19:28 log      INFO     
+605 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+606 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip951
+06-24 19:28 log      INFO     
+606 / 641, num linestrings: 51
+06-24 19:28 log      INFO     
+607 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip952
+06-24 19:28 log      INFO     
+607 / 641, num linestrings: 55
+06-24 19:28 log      INFO     
+608 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip953
+06-24 19:28 log      INFO     
+608 / 641, num linestrings: 55
+06-24 19:28 log      INFO     
+609 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip954
+06-24 19:28 log      INFO     
+609 / 641, num linestrings: 35
+06-24 19:28 log      INFO     
+610 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip955
+06-24 19:28 log      INFO     
+610 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+611 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip956
+06-24 19:28 log      INFO     
+611 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+612 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip958
+06-24 19:28 log      INFO     
+612 / 641, num linestrings: 62
+06-24 19:28 log      INFO     
+613 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip959
+06-24 19:28 log      INFO     
+613 / 641, num linestrings: 45
+06-24 19:28 log      INFO     
+614 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip96
+06-24 19:28 log      INFO     
+614 / 641, num linestrings: 12
+06-24 19:28 log      INFO     
+615 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip960
+06-24 19:28 log      INFO     
+615 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+616 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip961
+06-24 19:28 log      INFO     
+616 / 641, num linestrings: 7
+06-24 19:28 log      INFO     
+617 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip962
+06-24 19:28 log      INFO     
+617 / 641, num linestrings: 41
+06-24 19:28 log      INFO     
+618 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip963
+06-24 19:28 log      INFO     
+618 / 641, num linestrings: 4
+06-24 19:28 log      INFO     
+619 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip965
+06-24 19:28 log      INFO     
+619 / 641, num linestrings: 64
+06-24 19:28 log      INFO     
+620 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip967
+06-24 19:28 log      INFO     
+620 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+621 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip968
+06-24 19:28 log      INFO     
+621 / 641, num linestrings: 38
+06-24 19:28 log      INFO     
+622 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip969
+06-24 19:28 log      INFO     
+622 / 641, num linestrings: 1
+06-24 19:28 log      INFO     
+623 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip971
+06-24 19:28 log      INFO     
+623 / 641, num linestrings: 24
+06-24 19:28 log      INFO     
+624 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip973
+06-24 19:28 log      INFO     
+624 / 641, num linestrings: 27
+06-24 19:28 log      INFO     
+625 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip976
+06-24 19:28 log      INFO     
+625 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+626 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip979
+06-24 19:28 log      INFO     
+626 / 641, num linestrings: 68
+06-24 19:28 log      INFO     
+627 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip980
+06-24 19:28 log      INFO     
+627 / 641, num linestrings: 71
+06-24 19:28 log      INFO     
+628 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip981
+06-24 19:28 log      INFO     
+628 / 641, num linestrings: 6
+06-24 19:28 log      INFO     
+629 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip982
+06-24 19:28 log      INFO     
+629 / 641, num linestrings: 40
+06-24 19:28 log      INFO     
+630 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip983
+06-24 19:28 log      INFO     
+630 / 641, num linestrings: 31
+06-24 19:28 log      INFO     
+631 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip985
+06-24 19:28 log      INFO     
+631 / 641, num linestrings: 52
+06-24 19:28 log      INFO     
+632 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip986
+06-24 19:28 log      INFO     
+632 / 641, num linestrings: 44
+06-24 19:28 log      INFO     
+633 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip987
+06-24 19:28 log      INFO     
+633 / 641, num linestrings: 26
+06-24 19:28 log      INFO     
+634 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip988
+06-24 19:28 log      INFO     
+634 / 641, num linestrings: 5
+06-24 19:28 log      INFO     
+635 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip99
+06-24 19:28 log      INFO     
+635 / 641, num linestrings: 47
+06-24 19:28 log      INFO     
+636 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip991
+06-24 19:28 log      INFO     
+636 / 641, num linestrings: 46
+06-24 19:28 log      INFO     
+637 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip993
+06-24 19:28 log      INFO     
+637 / 641, num linestrings: 75
+06-24 19:28 log      INFO     
+638 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip996
+06-24 19:28 log      INFO     
+638 / 641, num linestrings: 23
+06-24 19:28 log      INFO     
+639 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip997
+06-24 19:28 log      INFO     
+639 / 641, num linestrings: 17
+06-24 19:28 log      INFO     
+640 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip998
+06-24 19:28 log      INFO     
+640 / 641, num linestrings: 28
+06-24 19:28 log      INFO     
+641 / 641, SN5_roads_train_AOI_8_Mumbai_PS-MS_chip999
+06-24 19:28 log      INFO     
+641 / 641, num linestrings: 20
+06-24 19:28 log      INFO     Time to run wkt_to_G.py: 3.323904514312744 seconds
